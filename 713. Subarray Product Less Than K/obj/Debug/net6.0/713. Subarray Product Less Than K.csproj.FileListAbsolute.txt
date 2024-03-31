@@ -1,0 +1,15 @@
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.csproj.AssemblyReference.cache
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.AssemblyInfoInputs.cache
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.AssemblyInfo.cs
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.csproj.CoreCompileInputs.cache
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\bin\Debug\net6.0\713. Subarray Product Less Than K.exe
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\bin\Debug\net6.0\713. Subarray Product Less Than K.deps.json
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\bin\Debug\net6.0\713. Subarray Product Less Than K.runtimeconfig.json
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\bin\Debug\net6.0\713. Subarray Product Less Than K.dll
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\bin\Debug\net6.0\713. Subarray Product Less Than K.pdb
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.dll
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\refint\713. Subarray Product Less Than K.dll
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.pdb
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\713. Subarray Product Less Than K.genruntimeconfig.cache
+C:\Users\iku\Desktop\LeetCode C#\713. Subarray Product Less Than K\713. Subarray Product Less Than K\obj\Debug\net6.0\ref\713. Subarray Product Less Than K.dll

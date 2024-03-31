@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "713. Subarray Product Less Than K/1.0.0": {
+        "runtime": {
+          "713. Subarray Product Less Than K.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "713. Subarray Product Less Than K/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
